@@ -1,0 +1,2 @@
+#Task-2
+select max(population) - min(population) from city;
